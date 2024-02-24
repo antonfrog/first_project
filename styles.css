@@ -1,0 +1,17 @@
+* {
+    font-family: 'Comic Sans MS', cursive;
+    color: white;
+}
+body {
+    background: #5566d4;
+}
+h1 {
+    text-align: center;
+}
+.header-1 {
+    color: red;
+}
+
+.donut-img {
+    display: block;
+}
